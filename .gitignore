@@ -1,0 +1,8 @@
+.venv/
+_work/
+NewFile/
+__pycache__/
+assets/
+deliverables/
+results/
+coupling.so
